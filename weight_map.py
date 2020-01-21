@@ -1,5 +1,5 @@
 
-#【！】请参考博客：https://www.jianshu.com/p/60ce8b93b806
+#【！】代码解读请参考：https://www.jianshu.com/p/60ce8b93b806
 #【！】权重图用于 Unet 和 InvUnet 的隐式轮廓学习
 
 from skimage import io
