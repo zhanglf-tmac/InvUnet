@@ -1,5 +1,5 @@
 
-There are the key codes of paper "InvUnet:Inverse the Unet for Nuclear Segmentation in H&E Stained Images" accepted by ICACI2020, including:
+There are the key codes of paper "*InvUnet:Inverse the Unet for Nuclear Segmentation in H&E Stained Images*" accepted by ICACI2020, including:
 
 `InvUnet.py`: implementation of **InvUnet**；
 
@@ -8,7 +8,7 @@ There are the key codes of paper "InvUnet:Inverse the Unet for Nuclear Segmentat
 
 ---
 
-TABLE I. Pixel-level segmentation results(IoU:%) for Unet and InvUnet
+TABLE I. **Pixel-level segmentation** results( *IoU*:%) for Unet and InvUnet
 
 | Models  | Params | breast | kidney | liver  | prostate | bladder | colon  | stomach | A\_avg | B\_avg |
 |---------|--------|--------|--------|--------|----------|---------|--------|---------|--------|--------|
@@ -17,7 +17,7 @@ TABLE I. Pixel-level segmentation results(IoU:%) for Unet and InvUnet
 
 ---
 
-TABLE II. Instance-level segmentation results(F1:%) for Unet-3c, InvUnet-3c, Unet-w and InvUnet-w. 
+TABLE II. **Instance-level segmentation** results(F1:%) for Unet-3c, InvUnet-3c, Unet-w and InvUnet-w. 
 
 | Models      | Params | breast | kidney | liver  | prostate | bladder | colon  | stomach | A\_avg | B\_avg |
 |-------------|--------|--------|--------|--------|----------|---------|--------|---------|--------|--------|
