@@ -68,7 +68,7 @@ class global_feature(nn.Module):
 from torch import nn
 from torch.nn import functional as F
 
-# 【5】搭建 RUnet 模型
+# 【5】搭建 InvUnet 模型
 class InvUnet(nn.Module):
     def __init__(self, in_ch, out_ch,in_size, class_num):
         super(InvUnet,self).__init__()
