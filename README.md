@@ -26,11 +26,6 @@ TABLE II. Instance-level segmentation results(F1:%) for Unet-3c, InvUnet-3c, Une
 | Unet\-w     | 7\.76M | 41\.86 | 26\.54 | 61\.30 | 64\.57   | 45\.34  | 53\.63 | 71\.94  | 48\.57 | 56\.97 |
 | InvUnet\-w  | 1\.26M | 47\.34 | 34\.73 | 64\.48 | 69\.85   | 52\.19  | 59\.65 | 75\.19  | 54\.10 | 62\.31 |
 
----
 
-这是 ICACI2020 已接收论文《InvUnet:Inverse the Unet for Nuclear Segmentation in
-H&E Stained Images》的核心代码, 包括：
 
-`InvUnet.py`: 对 **InvUnet** 的实现；
 
-`weight_map.py`: 对 **权重图** 的实现.
